@@ -7,16 +7,7 @@ MyBlog adalah aplikasi blog sederhana yang menampilkan artikel berita terkini me
 - Fetch data berita dari NewsAPI (top-headlines).
 - Halaman detail artikel dengan route dinamis `/blog/[slug]`.
 - Komponen UI elegan dengan Tailwind CSS & Ant Design.
-- Dibangun dengan **React Server Components (RSC)** & App Router.
-- SEO-friendly via `generateMetadata()`.
-
----
-
-## Tampilan
-
-![Home Screenshot](/screen1.png)
-![Detail Screenshot](/screen2.png)
-
+- SEO-friendly.
 
 ---
 
