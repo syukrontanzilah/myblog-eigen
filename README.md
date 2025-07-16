@@ -1,4 +1,4 @@
-# 📰 MyBlog - News Blog with Next.js 15
+# MyBlog - News Blog with Next.js 15
 
 MyBlog adalah aplikasi blog sederhana yang menampilkan artikel berita terkini menggunakan **Next.js 15**, **Ant Design**, **Tailwind CSS**, dan API dari [NewsAPI.org](https://newsapi.org).
 
@@ -14,27 +14,28 @@ MyBlog adalah aplikasi blog sederhana yang menampilkan artikel berita terkini me
 
 ## Tampilan
 
-> `public/screen1.png`
-> `public/screen2.png`
+![Home Screenshot](/screen1.png)
+![Detail Screenshot](/screen2.png)
 
 
 ---
 
 ## Teknologi yang Digunakan
 
-- [Next.js 15]
-- [React 19]
-- [Tailwind CSS]
-- [Ant Design]
-- [NewsAPI]
+- Next.js 15
+- React 19
+- Tailwind CSS
+- Ant Design
+- NewsAPI
 
 ---
 
 ## Cara Menjalankan Secara Lokal
 
-### 1. Clone Project
 
 ```bash
+### 1. Clone Project 
+
 git clone https://github.com/syukrontanzilah/myblog-eigen
 cd myblog
 
